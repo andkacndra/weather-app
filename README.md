@@ -1,4 +1,4 @@
-<h1 align="center">🌦️ Weather App Laravel</h1>
+<h1 align="center">Weather App Laravel</h1>
 <p align="center">
 Aplikasi web sederhana untuk mengecek cuaca berdasarkan kota menggunakan Laravel dan Open-Meteo API.
 </p>
