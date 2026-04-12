@@ -19,6 +19,3 @@ Aplikasi web sederhana untuk mengecek cuaca berdasarkan kota menggunakan Laravel
 
 ## 📸 Screenshot
 (Tambahkan screenshot di sini)
-
-## 👨‍💻 Author
-Andika Candra
