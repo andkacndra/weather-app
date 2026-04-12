@@ -18,4 +18,4 @@ Aplikasi web sederhana untuk mengecek cuaca berdasarkan kota menggunakan Laravel
 - Weather: https://api.open-meteo.com
 
 ## 📸 Screenshot
-(Tambahkan screenshot di sini)
+<img src="public/assets/weather-app.png" alt="Main Dashboard" width="800">
