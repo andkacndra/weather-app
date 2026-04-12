@@ -7,7 +7,6 @@ Aplikasi web sederhana untuk mengecek cuaca berdasarkan kota menggunakan Laravel
 - Pencarian kota global
 - Menampilkan suhu
 - Menampilkan kecepatan angin
-- UI modern dan responsive
 
 ## 🧠 Teknologi
 - Laravel
