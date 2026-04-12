@@ -15,7 +15,7 @@ Aplikasi web sederhana untuk mengecek cuaca berdasarkan kota menggunakan Laravel
 
 ## 🔗 API
 - Geocoding: https://geocoding-api.open-meteo.com
-- Weather: https://api.open-meteo.com
+- Weather: https://open-meteo.com
 
 ## 📸 Screenshot
 <img src="public/assets/weather-app.png" alt="Main Dashboard" width="800">
