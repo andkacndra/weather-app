@@ -3,19 +3,19 @@
 Aplikasi web sederhana untuk mengecek cuaca berdasarkan kota menggunakan Laravel dan Open-Meteo API.
 </p>
 
-## 🚀 Fitur
+## Fitur
 - Pencarian kota global
 - Menampilkan suhu
 - Menampilkan kecepatan angin
 
-## 🧠 Teknologi
+## Teknologi
 - Laravel
 - Bootstrap
 - Open-Meteo API
 
-## 🔗 API
+## API
 - Geocoding: https://open-meteo.com/en/docs/geocoding-api
 - Weather: https://open-meteo.com
 
-## 📸 Screenshot
+## Screenshot
 <img src="public/assets/weather-app.png" alt="Main Dashboard" width="800">
